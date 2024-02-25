@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ReCAPTCHA</title>
+<script src="https://www.google.com/recaptcha/api.js?render=6LelCn8pAAAAACOFHSJyAJ-upttTrx8dRi1t2C9z"></script>
+    <div class="g-recaptcha"
+      data-sitekey="6LelCn8pAAAAACOFHSJyAJ-upttTrx8dRi1t2C9z"
+      data-callback="onSubmit"
+      data-size="invisible">
+  </div>
+</head>
+<body>
+</body>
+</html>
